@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="193px" height="78px" viewBox="0 0 193 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>blue-panel-elements-sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 45 119 45 119 0 0 0"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="119" height="45" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape-Copy" transform="translate(-663.000000, -22.000000)">
+            <g id="Header---Tablet-and-small-notebooks-landscape">
+                <g id="Header-Illustration-Desktop">
+                    <g id="Panel-180x180---Light-Blue" transform="translate(632.000000, 0.000000)">
+                        <g id="blue-panel-elements-sm" transform="translate(32.000000, 22.000000)">
+                            <g id="buttons" transform="translate(0.000000, 2.000000)" stroke-width="4" stroke="#FEBC2A">
+                                <g id="Group-66">
+                                    <path d="M0.1991,21.6029 L16.1991,21.6029" id="Stroke-65"></path>
+                                    <path d="M8.1991,14.4185 C4.3401,14.4185 1.1991,11.2775 1.1991,7.4185 C1.1991,3.5595 4.3401,0.4185 8.1991,0.4185 C12.0581,0.4185 15.1991,3.5595 15.1991,7.4185 C15.1991,11.2775 12.0581,14.4185 8.1991,14.4185" id="Fill-59" fill="#EE2F24"></path>
+                                </g>
+                                <g id="Group-74" transform="translate(33.000000, 0.000000)">
+                                    <path d="M0.737,21.6029 L16.737,21.6029" id="Stroke-73"></path>
+                                    <path d="M8.7372,14.4185 C4.8782,14.4185 1.7372,11.2775 1.7372,7.4185 C1.7372,3.5595 4.8782,0.4185 8.7372,0.4185 C12.5962,0.4185 15.7372,3.5595 15.7372,7.4185 C15.7372,11.2775 12.5962,14.4185 8.7372,14.4185" id="Fill-67" fill="#EE2F24"></path>
+                                </g>
+                                <g id="Group-82" transform="translate(67.000000, 0.000000)">
+                                    <path d="M8.2753,14.4185 C4.4163,14.4185 1.2753,11.2775 1.2753,7.4185 C1.2753,3.5595 4.4163,0.4185 8.2753,0.4185 C12.1343,0.4185 15.2753,3.5595 15.2753,7.4185 C15.2753,11.2775 12.1343,14.4185 8.2753,14.4185" id="Fill-75" fill="#EE2F24"></path>
+                                    <path d="M0.2748,21.6029 L16.2748,21.6029" id="Stroke-81"></path>
+                                </g>
+                                <g id="Group-82-Copy" transform="translate(100.000000, 0.000000)">
+                                    <path d="M8.2753,14.4185 C4.4163,14.4185 1.2753,11.2775 1.2753,7.4185 C1.2753,3.5595 4.4163,0.4185 8.2753,0.4185 C12.1343,0.4185 15.2753,3.5595 15.2753,7.4185 C15.2753,11.2775 12.1343,14.4185 8.2753,14.4185" id="Fill-75" fill="#EE2F24"></path>
+                                    <path d="M0.2748,21.6029 L16.2748,21.6029" id="Stroke-81"></path>
+                                </g>
+                            </g>
+                            <g id="wave" transform="translate(0.000000, 33.000000)">
+                                <polygon id="Fill-131" fill="#FFFFFF" points="0 45 119 45 119 0 0 0"></polygon>
+                                <path d="M119,43 L0,43" id="Stroke-134" stroke="#CDCCCC" stroke-width="4"></path>
+                                <path d="M119,23 L0,23" id="Stroke-134" stroke="#CDCCCC" stroke-width="4"></path>
+                                <path d="M0,2 L119,2" id="Stroke-135" stroke="#CDCCCC" stroke-width="4"></path>
+                                <g id="verticals" transform="translate(19.000000, 1.000000)" stroke="#CDCCCC" stroke-width="4">
+                                    <path d="M1,0 L1,43" id="Stroke-138"></path>
+                                    <path d="M40,0 L40,43" id="Stroke-139"></path>
+                                    <path d="M21,0 L21,43" id="Stroke-139-Copy"></path>
+                                    <path d="M60,0 L60,43" id="Stroke-140"></path>
+                                    <path d="M80,0 L80,43" id="Stroke-141"></path>
+                                </g>
+                                <path d="M3,33.9873075 C14.888412,33.9541355 6.15708693,11.0024772 19.5845942,11.0009941 C35.302345,10.999258 24.6224136,33.9649698 39.693065,34.0009941 C54.7637165,34.0370184 43.2476575,10.9180948 58.6682304,11.0009941 C74.0888033,11.0838934 64.6951401,34.1181816 78.5948797,34.0009941 C92.4946193,33.8838066 83.2331139,10.8257321 98.9151922,11.0009941 C114.597271,11.176256 104.709463,34.2358031 115.538922,34.0009941" id="Stroke-147" stroke="#FEBC2A" stroke-width="4"></path>
+                                <use id="Fill-148" stroke="#173963" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="schema" transform="translate(138.000000, 0.000000)">
+                                <path d="M6,18 L48,46.1081101" id="Stroke-23" stroke="#FEBC2A" stroke-width="4"></path>
+                                <path d="M48,18 L6,46.1081101" id="Stroke-24" stroke="#FEBC2A" stroke-width="4"></path>
+                                <path d="M6,18.2774974 C6,13.8530074 8.35286136,9.91378199 11.9539332,7.48620112 C14.3183911,5.89225552 17.2209792,4.95001221 20.349,4.95001221 L33.651,4.95001221 C41.543,4.95001221 48,10.9478945 48,18.2774974 L48,46.1081101 L6,46.1081101 L6,18.2774974 Z" id="Stroke-25" stroke="#FEBC2A" stroke-width="4"></path>
+                                <path d="M27,32.0172367 L27,3" id="Stroke-27" stroke="#FEBC2A" stroke-width="4"></path>
+                                <path d="M33,6 C33,9.3138 30.3138,12 27,12 C23.6862,12 21,9.3138 21,6 C21,2.6862 23.6862,0 27,0 C30.3138,0 33,2.6862 33,6" id="Fill-29" fill="#173963"></path>
+                                <path d="M27,38 C23.6862,38 21,35.3138 21,32 C21,28.6862 23.6862,26 27,26 C30.3138,26 33,28.6862 33,32 C33,35.3138 30.3138,38 27,38 Z" id="Fill-31" fill="#173963"></path>
+                                <path d="M54,46 C54,49.3138 51.3138,52 48,52 C44.6862,52 42,49.3138 42,46 C42,42.6862 44.6862,40 48,40 C51.3138,40 54,42.6862 54,46" id="Fill-33" fill="#173963"></path>
+                                <path d="M6,52 C2.6862,52 0,49.3138 0,46 C0,42.6862 2.6862,40 6,40 C9.3138,40 12,42.6862 12,46 C12,49.3138 9.3138,52 6,52 Z" id="Fill-35" fill="#173963"></path>
+                                <path d="M54,18 C54,21.3138 51.3138,24 48,24 C44.6862,24 42,21.3138 42,18 C42,14.6862 44.6862,12 48,12 C51.3138,12 54,14.6862 54,18" id="Fill-37" fill="#173963"></path>
+                                <path d="M6,24 C2.6862,24 0,21.3138 0,18 C0,14.6862 2.6862,12 6,12 C9.3138,12 12,14.6862 12,18 C12,21.3138 9.3138,24 6,24 Z" id="Fill-39" fill="#173963"></path>
+                            </g>
+                            <g id="Group-16" transform="translate(141.000000, 58.000000)" fill="#FFFFFF">
+                                <path d="M45,20 C43.343,20 42,18.657 42,17 C42,15.343 43.343,14 45,14 C46.657,14 48,15.343 48,17 C48,18.657 46.657,20 45,20" id="Fill-288"></path>
+                                <path d="M31,20 C29.343,20 28,18.657 28,17 C28,15.343 29.343,14 31,14 C32.657,14 34,15.343 34,17 C34,18.657 32.657,20 31,20" id="Fill-289"></path>
+                                <path d="M17,20 C15.343,20 14,18.657 14,17 C14,15.343 15.343,14 17,14 C18.657,14 20,15.343 20,17 C20,18.657 18.657,20 17,20" id="Fill-290"></path>
+                                <path d="M0,17 C0,15.343 1.343,14 3,14 C4.657,14 6,15.343 6,17 C6,18.657 4.657,20 3,20 C1.343,20 0,18.657 0,17 Z" id="Fill-291"></path>
+                                <path d="M45,6 C43.343,6 42,4.657 42,3 C42,1.343 43.343,0 45,0 C46.657,0 48,1.343 48,3 C48,4.657 46.657,6 45,6" id="Fill-296"></path>
+                                <path d="M31,6 C29.343,6 28,4.657 28,3 C28,1.343 29.343,0 31,0 C32.657,0 34,1.343 34,3 C34,4.657 32.657,6 31,6" id="Fill-297"></path>
+                                <path d="M17,6 C15.343,6 14,4.657 14,3 C14,1.343 15.343,0 17,0 C18.657,0 20,1.343 20,3 C20,4.657 18.657,6 17,6" id="Fill-298"></path>
+                                <path d="M3,6 C1.343,6 0,4.657 0,3 C0,1.343 1.343,0 3,0 C4.657,0 6,1.343 6,3 C6,4.657 4.657,6 3,6" id="Fill-299"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

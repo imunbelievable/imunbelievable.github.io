@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="74px" viewBox="0 0 76 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape-Copy" transform="translate(-526.000000, -23.000000)">
+            <g id="Header---Tablet-and-small-notebooks-landscape">
+                <g id="Header-Illustration-Desktop">
+                    <g id="Panel-180x180---Navy" transform="translate(496.000000, 0.000000)">
+                        <g id="Group-4" transform="translate(30.000000, 25.000000)">
+                            <g id="levels">
+                                <polygon id="Fill-13" fill="#CDCCCC" points="0 44 76 44 76 38 0 38"></polygon>
+                                <path d="M24,41 C24,38.2435714 26.2435714,36 29,36 C31.7564286,36 34,38.2435714 34,41 C34,43.7564286 31.7564286,46 29,46 C26.2435714,46 24,43.7564286 24,41 Z" id="Fill-15" stroke="#FEBC2A" stroke-width="4" fill="#3E85C6"></path>
+                                <polygon id="Fill-13" fill="#CDCCCC" points="0 26 76 26 76 20 0 20"></polygon>
+                                <path d="M53,23 C53,20.2435714 55.2435714,18 58,18 C60.7564286,18 63,20.2435714 63,23 C63,25.7564286 60.7564286,28 58,28 C55.2435714,28 53,25.7564286 53,23 Z" id="Fill-15" stroke="#FEBC2A" stroke-width="4" fill="#3E85C6"></path>
+                                <polygon id="Fill-13" fill="#CDCCCC" points="0 8 76 8 76 2 0 2"></polygon>
+                                <path d="M12,5 C12,2.24357143 14.2435714,0 17,0 C19.7564286,0 22,2.24357143 22,5 C22,7.75642857 19.7564286,10 17,10 C14.2435714,10 12,7.75642857 12,5 Z" id="Fill-15" stroke="#FEBC2A" stroke-width="4" fill="#3E85C6"></path>
+                            </g>
+                            <g id="Group" transform="translate(0.000000, 58.000000)">
+                                <path d="M71,11 C68.2384615,11 66,8.76153846 66,6 C66,3.23846154 68.2384615,1 71,1 C73.7615385,1 76,3.23846154 76,6 C76,8.76153846 73.7615385,11 71,11 Z" id="Fill-42-Copy" fill="#FFFFFF"></path>
+                                <path d="M5,11 C2.23846154,11 0,8.76153846 0,6 C0,3.23846154 2.23846154,1 5,1 C7.76153846,1 10,3.23846154 10,6 C10,8.76153846 7.76153846,11 5,11 Z" id="Fill-42" fill="#FFFFFF"></path>
+                                <path d="M18,6 L58,6" id="Stroke-50" stroke="#EE2F24" stroke-width="4"></path>
+                                <path d="M32,6 C32,2.69175 34.69175,0 38,0 C41.30825,0 44,2.69175 44,6 C44,9.30825 41.30825,12 38,12 C34.69175,12 32,9.30825 32,6 Z" id="Fill-56" stroke="#EE2F24" stroke-width="4" fill="#3E85C6"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

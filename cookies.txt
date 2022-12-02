@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cdn.fuseplatform.net	TRUE	/	FALSE	1999999999	akacd_randomtriviagen	1672543128~rv=87~id=e162e72b867ed4e0a8805c5a17afe3c5
+cdn.fuseplatform.net	TRUE	/	FALSE	1999999999	SameSite	None
+.yandex.ru	TRUE	/	FALSE	1999999999	i	A9Grg0unolpBzJRQpq+4zh3V6aUYh+V7URK+IQreP8YeuYkDCoSyYXAQIewdiXUbovKZcjCWHi5IUBNmn1+yWYc1iRs=
+

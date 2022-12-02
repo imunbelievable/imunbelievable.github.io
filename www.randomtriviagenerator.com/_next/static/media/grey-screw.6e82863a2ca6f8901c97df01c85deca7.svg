@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>white screw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-Illustration-Desktop" transform="translate(-570.000000, -10.000000)">
+            <g id="Panel-180x180---RED">
+                <g transform="translate(560.000000, 0.000000)">
+                    <g id="grey-screw" transform="translate(10.000000, 10.000000)">
+                        <g>
+                            <path d="M12,6 C12,9.314 9.314,12 6,12 C2.686,12 0,9.314 0,6 C0,2.686 2.686,0 6,0 C9.314,0 12,2.686 12,6" id="Fill-8" fill="#CDCCCC"></path>
+                            <path d="M6,2.5 L6,9.5" id="Stroke-10" stroke="#231F20"></path>
+                            <path d="M2.5,6 L9.5,6" id="Stroke-12" stroke="#231F20"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="73px" viewBox="0 0 76 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape-Copy" transform="translate(-390.000000, -25.000000)">
+            <g id="Header---Tablet-and-small-notebooks-landscape">
+                <g id="Header-Illustration-Desktop">
+                    <g id="Panel-180x180---RED" transform="translate(360.000000, 0.000000)">
+                        <g id="Group-2" transform="translate(30.000000, 25.000000)">
+                            <g id="Group-3" transform="translate(38.000000, 61.500000) rotate(-360.000000) translate(-38.000000, -61.500000) translate(2.000000, 52.000000)" stroke-width="4">
+                                <path d="M10.8301396,3.90205818 C17.5899118,3.103 11.5870933,19 21.3048533,19 C31.0237511,19 21.6962489,3.051 31.5448533,3.051 C41.3934578,3.051 31.5960533,19 41.7780267,19 C51.96,19 42.24224,3.103 51.8951467,3.103 C61.5480533,3.103 52.4236796,17.030018 62.7603907,17.030018" id="Stroke-145" stroke="#FDBB29"></path>
+                                <polygon id="Fill-93" stroke="#FFFFFF" fill="#173963" points="0 19 9 19 9 1.42108547e-14 0 1.42108547e-14"></polygon>
+                                <polygon id="Fill-95" stroke="#FFFFFF" fill="#173963" points="63 19 72 19 72 0 63 0"></polygon>
+                            </g>
+                            <g id="small-panel">
+                                <polygon id="Fill-19" fill="#FEBC2A" points="0 35 76 35 76 0 0 0"></polygon>
+                                <path d="M17,10.5 C17,12.433 15.433,14 13.5,14 C11.567,14 10,12.433 10,10.5 C10,8.567 11.567,7 13.5,7 C15.433,7 17,8.567 17,10.5" id="Fill-20" fill="#3E85C6"></path>
+                                <path d="M34,10.5 C34,12.433 32.433,14 30.5,14 C28.567,14 27,12.433 27,10.5 C27,8.567 28.567,7 30.5,7 C32.433,7 34,8.567 34,10.5" id="Fill-21" fill="#3E85C6"></path>
+                                <path d="M46.5,14 C44.567,14 43,12.433 43,10.5 C43,8.567 44.567,7 46.5,7 C48.433,7 50,8.567 50,10.5 C50,12.433 48.433,14 46.5,14 Z" id="Fill-22" fill="#3E85C6"></path>
+                                <path d="M67,10.5 C67,12.433 65.433,14 63.5,14 C61.567,14 60,12.433 60,10.5 C60,8.567 61.567,7 63.5,7 C65.433,7 67,8.567 67,10.5" id="Fill-23" fill="#3E85C6"></path>
+                                <path d="M17,24.5 C17,26.433 15.433,28 13.5,28 C11.567,28 10,26.433 10,24.5 C10,22.567 11.567,21 13.5,21 C15.433,21 17,22.567 17,24.5" id="Fill-28" fill="#3E85C6"></path>
+                                <path d="M34,24.5 C34,26.433 32.433,28 30.5,28 C28.567,28 27,26.433 27,24.5 C27,22.567 28.567,21 30.5,21 C32.433,21 34,22.567 34,24.5" id="Fill-29" fill="#3E85C6"></path>
+                                <path d="M50,24.5 C50,26.433 48.433,28 46.5,28 C44.567,28 43,26.433 43,24.5 C43,22.567 44.567,21 46.5,21 C48.433,21 50,22.567 50,24.5" id="Fill-30" fill="#3E85C6"></path>
+                                <path d="M67,24.5 C67,26.433 65.433,28 63.5,28 C61.567,28 60,26.433 60,24.5 C60,22.567 61.567,21 63.5,21 C65.433,21 67,22.567 67,24.5" id="Fill-31" fill="#3E85C6"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

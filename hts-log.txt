@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Dec 2022 22:18:47 at https://www.randomtriviagenerator.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.randomtriviagenerator.com/ -O1 "C:\Users\Ksenthil\Downloads\trivia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:19:25	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/icons/touch-icon-iphone.png (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/icons/touch-icon-ipad.png (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/icons/touch-icon-iphone-retina.png (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/icons/touch-icon-ipad-retina.png (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/img/favicon.ico (from https://www.randomtriviagenerator.com/)
+22:19:25	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/icons/safari-pinned-tab.svg (from https://www.randomtriviagenerator.com/)
+22:19:37	Warning: 	Permanent Redirect for https://www.randomtriviagenerator.com/telemetry/
+22:19:37	Warning: 	File has moved from https://www.randomtriviagenerator.com/telemetry/ to /telemetry
+22:19:37	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/GET (from https://cdn.fuseplatform.net/publift/tags/2/2919/fuse.js)
+22:19:37	Warning: 	Permanent Redirect for https://www.randomtriviagenerator.com/gpt_and_prebid/
+22:19:37	Warning: 	File has moved from https://www.randomtriviagenerator.com/gpt_and_prebid/ to /gpt_and_prebid
+22:19:38	Warning: 	Permanent Redirect for https://www.randomtriviagenerator.com/prebid/
+22:19:38	Warning: 	File has moved from https://www.randomtriviagenerator.com/prebid/ to /prebid
+22:19:38	Warning: 	Permanent Redirect for https://www.randomtriviagenerator.com/choice/
+22:19:38	Warning: 	File has moved from https://www.randomtriviagenerator.com/choice/ to /choice
+22:19:39	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/choice.js?tag_version=V2 (from https://cdn.fuseplatform.net/publift/tags/2/2919/fuse.js)
+22:19:39	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/t.document.referrer (from https://cdn.fuseplatform.net/publift/tags/2/2919/fuse.js)
+22:19:39	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/e (from https://cdn.fuseplatform.net/publift/tags/2/2919/fuse.js)
+22:19:39	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/t (from https://cdn.fuseplatform.net/publift/tags/2/2919/fuse.js)
+22:19:40	Error: 	"Error when decompressing" (-1) at link https://www.randomtriviagenerator.com/telemetry (from https://www.randomtriviagenerator.com/telemetry/)
+22:19:40	Error: 	"Error when decompressing" (-1) at link https://www.randomtriviagenerator.com/gpt_and_prebid (from https://www.randomtriviagenerator.com/gpt_and_prebid/)
+22:19:40	Error: 	"Error when decompressing" (-1) at link https://www.randomtriviagenerator.com/prebid (from https://www.randomtriviagenerator.com/prebid/)
+22:19:40	Error: 	"Not Found" (404) at link https://www.randomtriviagenerator.com/choice (from https://www.randomtriviagenerator.com/choice/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 89 links scanned, 65 files written (6805509 bytes overall) [2229188 bytes received at 42060 bytes/sec], 6542915 bytes transferred using HTTP compression in 73 files, ratio 25%, 3.3 requests per connection
+(16 errors, 8 warnings, 0 messages)

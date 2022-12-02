@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Tiny Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-bar---Home---Card-View" transform="translate(-17.000000, -31.000000)">
+            <g id="Tiny-Logo" transform="translate(17.000000, 31.000000)">
+                <g>
+                    <path d="M36,42 L6,42 C2.7,42 0,39.3 0,36 L0,6 C0,2.7 2.7,0 6,0 L36,0 C39.3,0 42,2.7 42,6 L42,36 C42,39.3 39.3,42 36,42 L36,42 Z" id="Path" fill="#231F20"></path>
+                    <polygon id="Fill-3" fill="#008A43" points="29.005 9 36.005 9 36.005 5 29.005 5"></polygon>
+                    <polygon id="Fill-5" fill="#008A43" points="29.005 14 36.005 14 36.005 12 29.005 12"></polygon>
+                    <polygon id="Fill-6" fill="#008A43" points="6 35 36 35 36 21 6 21"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

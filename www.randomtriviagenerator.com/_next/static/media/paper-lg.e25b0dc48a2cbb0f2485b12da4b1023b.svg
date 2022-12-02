@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="104px" height="120px" viewBox="0 0 104 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Paper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-Illustration-Desktop" transform="translate(-280.000000, -30.000000)">
+            <g id="Panel-180x180---GREY">
+                <g>
+                    <g id="Paper" transform="translate(280.000000, 30.000000)">
+                        <rect id="Rectangle-2" fill="#CDCCCC" x="0" y="0" width="104" height="120"></rect>
+                        <polygon id="Fill-1" fill="#173963" points="0 24.999 104 24.999 104 0 0 0"></polygon>
+                        <polygon id="Fill-2" stroke="#173963" stroke-width="4" fill="#FFFFFF" points="12 104 92 104 92 6 12 6"></polygon>
+                        <path d="M27.0325612,25 L65.7878848,25" id="Stroke-6" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,35 L76.3575185,35" id="Stroke-7" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,45 L72.8343073,45" id="Stroke-8" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,55 L58.7414623,55" id="Stroke-9" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,65 L76.3575185,65" id="Stroke-10" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,75 L65.7878848,75" id="Stroke-11" stroke="#3E85C6" stroke-width="4"></path>
+                        <path d="M27.0325612,85 L51.6950399,85" id="Stroke-12" stroke="#3E85C6" stroke-width="4"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
